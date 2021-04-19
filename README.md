@@ -4,7 +4,7 @@
 - Develop Build Status [![Build Status](https://www.travis-ci.com/ufukozsoy/sem.svg?branch=develop)](https://travis-ci.org/ufukozsoy/sem)
 - License [![LICENSE](https://img.shields.io/github/license/ufukozsoy/sem.svg?style=flat-square)](https://github.com/ufukozsoy/sem/blob/master/LICENSE)
 - Release [![Releases](https://img.shields.io/github/release/ufukozsoy/sem/all.svg?style=flat-square)](https://github.com/ufukozsoy/sem/releases)
-- [![codecov](https://codecov.io/gh/ufukozsoy/yedek/branch/master/graph/badge.svg?token=4H94JF84F6)](https://codecov.io/gh/ufukozsoy/yedek)
+[![codecov](https://codecov.io/gh/ufukozsoy/yedek/branch/UnitTestCase/graph/badge.svg?token=4H94JF84F6)](https://codecov.io/gh/ufukozsoy/yedek)
 
 # Requirements
 
