@@ -46,7 +46,7 @@ jobs:
 stages:
   - unit tests
   - integration tests
-  - name: GitHub Release
+  - name: GitHub Releases
     if: branch = master
 
 after_success:
